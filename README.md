@@ -6,7 +6,7 @@ Looking for a 4–6 month quantitative research / trading internship from Februa
 
 ## What I work on
 
-- **Systematic trading research** — a Python research pipeline (signal at T−1, volatility targeting, walk-forward, HAC, multiple-testing correction, pre-registration with kill rules) and a fully automated book running on a funded prop-firm account since August 2026. The research repository is private; a sanitised selection of studies is being published here.
+- **[proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge)** — the public part of my systematic-trading research: the engine (walk-forward, combinatorial purged CV, multiple-testing control, block bootstrap), a numbered lesson registry, and three pre-registered studies with their verdicts. The strategies that survived run fully automated on a prop-firm funded account since August 2026; the live system stays private.
 - **[regime-lab](https://github.com/Guillaume-Beaudouin-Git/regime-lab)** — machine-learned market regimes under a point-in-time data contract. The classifier recognises NBER recessions out of sample and predicts volatility, not returns; no trading rule built on it beats a one-line volatility filter. The negative result is the result.
 - **[Rouge](https://github.com/Guillaume-Beaudouin-Git/Rouge)** — a small market-intelligence terminal (FastAPI, DuckDB, collectors for CFTC COT, Polymarket, GDELT).
 
