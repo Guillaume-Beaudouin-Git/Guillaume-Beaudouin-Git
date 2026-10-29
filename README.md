@@ -1,6 +1,6 @@
 # Guillaume Beaudouin
 
-M.Sc. student in Economic and Financial Engineering (Université de Rennes, 2027). I build and test systematic trading strategies, with more effort spent on rejecting ideas than on finding them.
+M.Sc. student in Economic and Financial Engineering (Université de Rennes, 2027). I research and run systematic trading strategies: pre-registered studies, strict statistical controls, and a live automated book on a funded account.
 
 Looking for a 4–6 month quantitative research / trading internship from February 2027.
 
