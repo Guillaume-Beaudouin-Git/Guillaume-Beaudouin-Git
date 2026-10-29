@@ -1,6 +1,6 @@
 # Guillaume Beaudouin
 
-M.Sc. student in Economic and Financial Engineering (Université de Rennes, 2027). I research and run systematic trading strategies: pre-registered studies, strict statistical controls, and a live automated book on a funded account.
+M.Sc. student in Economic and Financial Engineering (Université de Rennes, 2027). I research and run systematic trading strategies: pre-registered studies, strict statistical controls, and one strategy running automated on a prop-firm account since August 2026.
 
 Looking for a 4–6 month quantitative research / trading internship from February 2027.
 
@@ -18,7 +18,3 @@ Python (pandas, NumPy, statsmodels, scikit-learn, LightGBM, pytest) · MQL5 · S
 
 [LinkedIn](https://www.linkedin.com/in/guillaume-beaudouin-b44846230/) · guillaume-beaudouin@orange.fr
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Beaudouin-Git&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-Beaudouin-Git&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
