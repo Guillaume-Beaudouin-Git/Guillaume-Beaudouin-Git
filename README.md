@@ -9,6 +9,9 @@ Master's student in economic and financial engineering at Université de Rennes,
 **Macro and regimes**
 - [regime-lab](https://github.com/Guillaume-Beaudouin-Git/regime-lab): a Master's team project of two, on a machine-learning model of market regimes that recognises US recessions and predicts volatility, not returns.
 
+**Rates and sovereign**
+- [ecart-oat-bund](https://github.com/Guillaume-Beaudouin-Git/ecart-oat-bund): how much of the rise in the 10-year OAT-Bund spread since May 2024 is specific to France (all of it, in monthly averages), and what that premium costs under stress. In French, with an English summary.
+
 **Systematic research**
 - [proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge): nine trading studies written up in full, with verdicts (out-of-sample tests, multiple-testing control), and the self-reported record of an automated FTMO account (simulated capital, real payouts).
   - full working history: [research-archive](https://github.com/Guillaume-Beaudouin-Git/research-archive)
