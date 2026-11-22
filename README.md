@@ -10,7 +10,7 @@ Master's student in economic and financial engineering at Université de Rennes,
 - [regime-lab](https://github.com/Guillaume-Beaudouin-Git/regime-lab): a Master's team project of two, on a machine-learning model of market regimes that recognises US recessions and predicts volatility, not returns.
 
 **Systematic research**
-- [proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge): nine trading studies written up in full, with verdicts (walk-forward tests, multiple-testing control), and the self-reported record of an automated FTMO account (simulated capital, real payouts).
+- [proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge): nine trading studies written up in full, with verdicts (out-of-sample tests, multiple-testing control), and the self-reported record of an automated FTMO account (simulated capital, real payouts).
   - full working history: [research-archive](https://github.com/Guillaume-Beaudouin-Git/research-archive)
 
 **How I work.** AI coding agents write and review the code; I set the objective and the validation rules, and decide what is kept. Each repository says how it was built.
