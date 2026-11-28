@@ -11,10 +11,10 @@ Master's student in economic and financial engineering at Université de Rennes,
 - [encheres-carbone](https://github.com/Guillaume-Beaudouin-Git/encheres-carbone): 2,876 EU carbon allowance auctions on EEX, 2013–2026: supply, demand, and an out-of-sample test that finds no evidence that the cover ratio predicts the next clearing prices.
 
 **Macro and regimes**
-- [regime-lab](https://github.com/Guillaume-Beaudouin-Git/regime-lab): a Master's team project of two, on a machine-learning model of market regimes that recognises US recessions out of sample (93.2% balanced accuracy; the test period holds two recessions only) and predicts volatility, not returns.
+- [regime-lab](https://github.com/Guillaume-Beaudouin-Git/regime-lab): a Master's team project of two, on a machine-learning model of market regimes that recognises US recessions out of sample (93.2% balanced accuracy; the test period holds two recessions only) and predicts volatility, not returns. In French, with an English summary.
 
 **Rates and sovereign**
-- [ecart-oat-bund](https://github.com/Guillaume-Beaudouin-Git/ecart-oat-bund): how much of the 96 bp rise in the 10-year OAT-Bund spread between May 2024 and October 2026 is specific to France (all of it, in monthly averages), and what that premium costs under stress. In French, with an English summary.
+- [ecart-oat-bund](https://github.com/Guillaume-Beaudouin-Git/ecart-oat-bund): how much of the 96 bp rise in the 10-year OAT-Bund spread between May 2024 and October 2026 is specific to France (all of it, in monthly averages, if France would otherwise have followed its euro-area peers), and what spread and rate shocks would do to a 10-year OAT position. In French, with an English summary.
 
 **Systematic research**
 - [proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge): nine complete trading studies, each with its results, its verdict and its pre-registration where one was written, and the self-reported record of an automated FTMO account (simulated capital, real payouts).
