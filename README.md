@@ -1,6 +1,6 @@
 # Guillaume Beaudouin
 
-Master's student in economic and financial engineering at Université de Rennes, working on energy and carbon markets, market regimes and systematic trading research.
+Master's student in economic and financial engineering at Université de Rennes, working on energy and carbon markets, market regimes, rates and sovereign spreads, and systematic trading research.
 
 **Available** from 22 February 2027 for a six-month end-of-studies internship, in France or abroad. [LinkedIn](https://www.linkedin.com/in/guillaume-beaudouin-b44846230/) · guillaume-beaudouin@orange.fr
 
