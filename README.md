@@ -18,6 +18,6 @@ Master's student in economic and financial engineering at Université de Rennes,
 
 **Systematic research**
 - [proof-of-edge](https://github.com/Guillaume-Beaudouin-Git/proof-of-edge): nine complete trading studies, each with its results, its verdict and its pre-registration where one was written, and the self-reported record of an automated FTMO account (simulated capital, real payouts).
-  - full working history: [research-archive](https://github.com/Guillaume-Beaudouin-Git/research-archive)
+  - the research programme's history, main branch only, April to September 2026: [research-archive](https://github.com/Guillaume-Beaudouin-Git/research-archive)
 
 **How I work.** I create and manage AI coding agents that write and review the code; I set the objective and the validation rules, and decide what is kept. Each repository says how it was built.
